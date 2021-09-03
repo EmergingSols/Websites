@@ -1,2 +1,2 @@
 ## Release v0.0.0.1
--[ ] Create web page without details
+-[x] Create web page without details
