@@ -1,1 +1,6 @@
 /*files to contains custom styles*/
+.h1-custom{
+color:white;
+background-color: purple;
+text-align: center;
+}
